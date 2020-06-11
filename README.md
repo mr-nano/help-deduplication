@@ -1,4 +1,4 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/dhruvkapur91/help-deduplication) 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/dhruvkapur91/help-deduplication)  [![Build Status](https://travis-ci.org/vishnupriyaRamanathan/help-deduplication.svg?branch=master)](https://travis-ci.org/vishnupriyaRamanathan/help-deduplication) 
 
 Hey there, thanks for helping Syed :smiley:
 
